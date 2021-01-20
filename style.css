@@ -1,4 +1,7 @@
-#center{
+center {
+  text-align: center;
+}
+centered {
   text-align: center;
 }
 body {
