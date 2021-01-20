@@ -1,9 +1,11 @@
 center {
   text-align: center;
 }
-centered {
+
+.centered {
   text-align: center;
 }
+
 body {
   background-color: greenyellow;
 }
